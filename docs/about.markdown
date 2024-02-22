@@ -5,4 +5,4 @@ permalink: /about/
 search_exclude: false
 ---
 
-The people asked for united airlines documentation to be hosted on github. We added united airlines documentation and are hosting it on github.
+The purpose of this website is to make documentation easily accessible through github. Because why leave github in search of documentation when your code is already on github.
