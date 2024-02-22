@@ -1,5 +1,4 @@
 GEM
-  remote: https://rubygems.org/
   specs:
     addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
@@ -74,7 +73,7 @@ PLATFORMS
   x86_64-darwin-21
 
 DEPENDENCIES
-  jekyll (~> 4.3.3)
+  jekyll
   just-the-docs
 
 BUNDLED WITH
