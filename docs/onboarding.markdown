@@ -5,4 +5,4 @@ permalink: /onboarding/
 search_exclude: false
 ---
 
- This is an example onboarding document...
+ This is an example onboarding document.
