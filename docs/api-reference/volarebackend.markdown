@@ -2,6 +2,7 @@
 layout: default
 title: Volare Backend
 parent: API Reference
+search_exclude: false
 nav_order: 3
 ---
 

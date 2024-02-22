@@ -2,6 +2,7 @@
 layout: default
 title: Application1
 parent: API Reference
+search_exclude: false
 nav_order: 1
 ---
 
